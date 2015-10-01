@@ -1,0 +1,7 @@
+.idea/
+classes/
+*.iml
+target/
+.classpath
+.project
+*.swp
